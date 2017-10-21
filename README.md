@@ -3,7 +3,7 @@
 > A dev meetup application build with VueJS + Vuex + Vuetify + Firebase
 
 VueJS
-![Image of VueJS](https://vuejs.org/images/logo.png =250x)
+![Image of VueJS](https://vuejs.org/images/logo.png =250x250)
 
 ## Build Setup
 
