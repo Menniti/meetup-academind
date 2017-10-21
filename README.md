@@ -2,10 +2,9 @@
 
 > A dev meetup application build with VueJS + Vuex + Vuetify + Firebase
 
-VueJS
 <img src='https://vuejs.org/images/logo.png' height=200px width=200px>
-Vuetify
 <img height=200px width=200px src="https://vuetifyjs.com/static/doc-images/logo.svg">
+<img height=200px width=200px src="https://firebase.google.com/_static/images/firebase/touchicon-180.png">
 
 ## Build Setup
 
