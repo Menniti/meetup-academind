@@ -5,7 +5,7 @@
 VueJS
 <img src='https://vuejs.org/images/logo.png' height=200px width=200px>
 Vuetify
-<a href="https://vuetifyjs.com" target="_blank"><img width="100"src="https://vuetifyjs.com/static/doc-images/logo.svg"></a>
+<img height=200px width=200px src="https://vuetifyjs.com/static/doc-images/logo.svg">
 
 ## Build Setup
 
