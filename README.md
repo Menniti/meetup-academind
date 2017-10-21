@@ -5,6 +5,7 @@
 VueJS
 ![Image of VueJS](https://vuejs.org/images/logo.png =250x250)
 
+<img src='https://vuejs.org/images/logo.png' height=250px width=250px>
 ## Build Setup
 
 ``` bash
