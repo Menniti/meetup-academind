@@ -1,6 +1,7 @@
 # yt-devmeetup-vue
 
-> A dev meetup application build with VueJS + Vuex + Vuetify + Firebase
+> A dev meetup application build with VueJS + Vuex + Vuetify + Firebase 
+
 > Goal - Create application to organize meetups
 
 <div>
