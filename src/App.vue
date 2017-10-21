@@ -80,10 +80,10 @@
               link: '/meetups'},
             { icon: 'room',
               title: 'Organize Meetup',
-              link: '/meetups/new'},
-            { icon: 'person',
+              link: '/meetups/new'}
+            /* { icon: 'person',
               title: 'Profile',
-              link: '/profile'}
+              link: '/profile'} */
           ]
         }
         return menuItens
