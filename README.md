@@ -3,9 +3,10 @@
 > A dev meetup application build with VueJS + Vuex + Vuetify + Firebase
 
 VueJS
-![Image of VueJS](https://vuejs.org/images/logo.png =250x250)
+<img src='https://vuejs.org/images/logo.png' height=200px width=200px>
+Vuetify
+<img src='https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj7xcWagILXAhUSl5AKHVtQDhAQjRwIBw&url=https%3A%2F%2Fgithub.com%2Fvuetifyjs%2Fvuetify&psig=AOvVaw11sZkIYlW6QdagOM0gbeIN&ust=1508685123460856' height=200px width=200px>
 
-<img src='https://vuejs.org/images/logo.png' height=250px width=250px>
 ## Build Setup
 
 ``` bash
